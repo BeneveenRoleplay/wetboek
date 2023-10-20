@@ -18,5 +18,5 @@ Hieronder vind je alle officiele discord van Beneveen Roleplay
 
 | Discord | Beschrijving | Invite Link |
 | ------------ | ------------- | ------------ | 
-| Beneveen Roleplay  | Main Discord | <a href="https://discord.gg/zpFHSeU3cm">Invite</a> | 
+| Beneveen Roleplay  | Main Discord | <a href="https://discord.gg/beneveen">Invite</a> | 
 | Beneveen Support  | Support Discord | <a href="https://discord.gg/yE99PPHDKN">Invite</a> | 

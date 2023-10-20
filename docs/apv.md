@@ -10,7 +10,7 @@
 ## **Opmerkingen met betrekking tot de verordening**
 Het Wetboek van Strafrecht, specifiek bedoeld voor Beneveen Roleplay, wordt hierbij ingetrokken en vervangen door deze APV.
 
-## **Algemene Bepalingen**
+# **Algemene Bepalingen**
 
 ## **A1 - Reikwijdte**
 1. Deze Algemene Plaatselijke Verordening (verder aangeduid als APV) is bedoeld als aanvulling op het Nederlands Recht en heeft betrekking op het eiland, de gemeente, en de stad Beneveen Roleplay.
@@ -52,7 +52,7 @@ Er kan door een stafflid gekozen worden om straffen te verhogen en/of te verlage
 
 <br>
 
-## **Overtredingen - Verstoring openbare orde (RP)**
+# **Overtredingen - Verstoring openbare orde (RP)**
 ## **Artikel 1 - Algemene Roleplay Richtlijnen**
 1. Het is verboden om een roleplay van zeer slechte kwaliteit uit te spelen, of roleplay verstorend gedrag te vertonen.
 2. Het is niet toegestaan om opzettelijk de roleplay zodanig te vormen dat er een oneerlijke of onrealistische draai aan het verhaal gegeven wordt, of de roleplay van de andere partij zelf invullen door een onrealistische dwang.
