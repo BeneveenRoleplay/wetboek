@@ -92,8 +92,7 @@ Politie.
 2. Wanneer een voertuig in beslag wordt genomen vanwege een strafbaar feit:  
 *a. Kan deze maximaal drie (3) dagen worden vastgehouden voor onderzoek.*  
 *b. Zal deze, nadat bewijsbaar is aangetoond dat het voertuig onderdeel was van een strafbaar feit waarbij de eigenaar ook veroordeeld is, uitgekocht kunnen worden voor  motoren; €5000,00, Auto’s; €7500,00 en Supercars;€15.000,00.*
- 
-c. Zal deze kosteloos worden teruggegeven (na eventueel onderzoek) indien de eigenaar geen strafbaar feit ten laste is gelegd, of kan gelegd worden, welke in directe zin gekoppeld is aan de reden van inbeslagname.*  
+*c. Zal deze kosteloos worden teruggegeven (na eventueel onderzoek) indien de eigenaar geen strafbaar feit ten laste is gelegd, of kan gelegd worden, welke in directe zin gekoppeld is aan de reden van inbeslagname.*  
  
 3. Geldige redenen voor inbeslagname zijn:  
 *a. Plegen van een strafbaar feit uit het wetboek van stadsleven waarbij het goed direct of indirect betrokken is, behalve fout parkeren en een snelheidsovertreding.*  
@@ -108,10 +107,13 @@ c. Zal deze kosteloos worden teruggegeven (na eventueel onderzoek) indien de eig
 1. Wanneer tijdens een controle of aanhouding aangetoond wordt dat het totaalbedrag van openstaande boetes boven de €5.000,- reikt, kan dit impact hebben op de strafeis. 
 
 *a. Wanneer dit aangetoond wordt bij het opvragen van een inbeslaggenomen goed of voertuig kan geëist worden eerst het boetebedrag te voldoen.*  
-*b. Wanneer dit aangetoond wordt tijdens onderzoek volgende op een misdrijf of crimineel feit kan hiervoor een boete of taakstraf worden opgelegd.* 
-*c. De hoogte van deze boete of taakstraf is ter beoordeling van de Officier van Dienst.  
+*b. Wanneer dit aangetoond wordt tijdens onderzoek volgende op een misdrijf of crimineel feit kan hiervoor een boete of taakstraf worden opgelegd.*
+<br> 
+*c. De hoogte van deze boete of taakstraf is ter beoordeling van de Officier van Dienst.*
+<br>
 *d. Deze boete of taakstraf wordt bijgevoegd bij de totale strafeis.*
- 
+ <br>
+<br>
 2. Onder het voldoen van het boetebedrag wordt verstaan tenminste een zodanige betaling te voldoen dat het totale boetebedrag onder de € 2.000,- komt. 
 
 
@@ -985,9 +987,9 @@ Hierbij gelden de volgende aandachtspunten:
  
 ⦁	Onderscheid wordt gemaakt tussen: 
  
- *a. Kleine vuurwapens (pistolen, revolvers, e.d.), aangeduid als Categorie 1; 
+ *a. Kleine vuurwapens (pistolen, revolvers, e.d.), aangeduid als Categorie 1;*
  
- b. Automatische vuurwapens, jachtgeweren, shotguns, explosieven, granaten, thermiet, etc., aangeduid als Categorie 2.*
+ *b. Automatische vuurwapens, jachtgeweren, shotguns, explosieven, granaten, thermiet, etc., aangeduid als Categorie 2.*
 
 
 
@@ -1203,24 +1205,24 @@ worden verkregen uit een van tevoren opgegeven aantal symbolen ("De Lotto").
 
 1. Wanneer besloten wordt tot een strafvermindering kan als leidraad gebruikt worden: 
 
-*⦁	vermindering van maximaal de helft bij een onvoorwaardelijke tijdelijke vrijheidsstraf, taakstraf of geldboete, of 
-⦁	de omzetting van maximaal de helft van het onvoorwaardelijke gedeelte van een vrijheidsstraf, taakstraf of van een geldboete in een voorwaardelijk gedeelte, of 
+*⦁	vermindering van maximaal de helft bij een onvoorwaardelijke tijdelijke vrijheidsstraf, taakstraf of geldboete, of*
+*⦁	de omzetting van maximaal de helft van het onvoorwaardelijke gedeelte van een vrijheidsstraf, taakstraf of van een geldboete in een voorwaardelijk gedeelte, of*
 
-⦁	de vervanging van maximaal een derde gedeelte van een vrijheidsstraf door taakstraf of een onvoorwaardelijke geldboete.*
+*⦁	de vervanging van maximaal een derde gedeelte van een vrijheidsstraf door taakstraf of een onvoorwaardelijke geldboete.*
  
 2. Strafverminderingsgronden worden bepaald in overleg tussen overheid en verdachte met bijstand van advocaat. Hierin meegenomen worden: 
 
-*⦁	eventuele eerdere vergrijpen (en/of het gebrek daar aan); 
+*⦁	eventuele eerdere vergrijpen (en/of het gebrek daar aan);*
 
-⦁	goed gedrag en meewerking van de verdachte tijdens en na zijn of haar aanhouding; 
+*⦁	goed gedrag en meewerking van de verdachte tijdens en na zijn of haar aanhouding;* 
 
-⦁	verzachtende omstandigheden; 
+*⦁	verzachtende omstandigheden;* 
 
-⦁	overmacht als gevolg van Stadsproblemen ("storm"); 
+*⦁	overmacht als gevolg van Stadsproblemen ("storm");* 
 
-⦁	proportionaliteit; 
+*⦁	proportionaliteit;* 
 
-⦁	aandeel van de verdachte in het geheel, indien er sprake is van een grootschalige overtreding met meerdere partijen.*
+*⦁	aandeel van de verdachte in het geheel, indien er sprake is van een grootschalige overtreding met meerdere partijen.*
 
 
 
@@ -1250,23 +1252,23 @@ worden verkregen uit een van tevoren opgegeven aantal symbolen ("De Lotto").
 
 1. De douane is bevoegd aan controle te onderwerpen: 
 
-*⦁	Personen en/of vervoermiddelen en/of plaatsen voor distributie en overslag voor goederen die over de weg worden vervoerd, havens, haventerreinen, luchthavens, grensinspectiepost en luchtvaartterreinen. 
+*⦁	Personen en/of vervoermiddelen en/of plaatsen voor distributie en overslag voor goederen die over de weg worden vervoerd, havens, haventerreinen, luchthavens, grensinspectiepost en luchtvaartterreinen.* 
 
-⦁	Controle zoals beschreven in lid 1 is alleen van toepassing op gebieden die staan gemarkeerd als douanegebied op de douanekaart. Zie hiervoor de kaart douanegebieden in het wetboek.
+*⦁	Controle zoals beschreven in lid 1 is alleen van toepassing op gebieden die staan gemarkeerd als douanegebied op de douanekaart. Zie hiervoor de kaart douanegebieden in het wetboek.*
  
-⦁	Uitzondering op lid 1b betreft vervoersmiddelen en/of personen, die aantoonbaar door de douane, vanuit open water het binnenland of binnenwater betreden. 
+*⦁	Uitzondering op lid 1b betreft vervoersmiddelen en/of personen, die aantoonbaar door de douane, vanuit open water het binnenland of binnenwater betreden.* 
  
-⦁	Onder controle in de zin van lid 1 wordt mede verstaan doorzoeking en fouillering. 
+*⦁	Onder controle in de zin van lid 1 wordt mede verstaan doorzoeking en fouillering.* 
  
-⦁	Fouillering geschiedt op een besloten plaats door dienstdoend personeel die van hetzelfde geslacht zijn als de persoon die aan fouillering wordt onderworpen, is dit niet mogelijk mag er van de regel worden afgeweken.  
+*⦁	Fouillering geschiedt op een besloten plaats door dienstdoend personeel die van hetzelfde geslacht zijn als de persoon die aan fouillering wordt onderworpen, is dit niet mogelijk mag er van de regel worden afgeweken.*  
  
-⦁	Onder fouillering zoals beschreven wordt verstaan: het onderzoek aan de kleding; en/of het verwijderen van de kleding, teneinde deze aan een nauwkeurig onderzoek te onderwerpen. Verwijderen van onderkleding is niet toegestaan. 
+*⦁	Onder fouillering zoals beschreven wordt verstaan: het onderzoek aan de kleding; en/of het verwijderen van de kleding, teneinde deze aan een nauwkeurig onderzoek te onderwerpen. Verwijderen van onderkleding is niet toegestaan.*
   
-⦁	De douane is bevoegd vervoermiddelen die aanwezig zijn in of op de bedoelde locaties van lid 1 te doorzoeken.  
+*⦁	De douane is bevoegd vervoermiddelen die aanwezig zijn in of op de bedoelde locaties van lid 1 te doorzoeken.*  
  
-⦁	Personen zijn op vordering van de douane gehouden stil te staan en deze te volgen naar een door hem aangewezen plaats.  
+*⦁	Personen zijn op vordering van de douane gehouden stil te staan en deze te volgen naar een door hem aangewezen plaats.*  
  
-⦁	Op vordering van de douane zijn reizigers, die zich bevinden in een vervoermiddel op de bedoelde locaties van lid 1, gehouden hun identiteit- en/of rijbewijs te vertonen. Deze verplichting geldt eveneens voor reizigers die in het vervoermiddel aanwezig zijn of juist hebben verlaten, dan wel die op het punt staan daarin aan boord te gaan.*
+*⦁	Op vordering van de douane zijn reizigers, die zich bevinden in een vervoermiddel op de bedoelde locaties van lid 1, gehouden hun identiteit- en/of rijbewijs te vertonen. Deze verplichting geldt eveneens voor reizigers die in het vervoermiddel aanwezig zijn of juist hebben verlaten, dan wel die op het punt staan daarin aan boord te gaan.*
 
 
 
