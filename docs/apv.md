@@ -159,6 +159,7 @@ Loodsen
 4. Het is de verantwoordelijkheid van de kopende partij om te controleren of de aangeboden aanpassingen (ook wel bekend als tunes) op het voertuig aanwezig zijn ten tijde van overdracht van het voertuig in een modshop.
 5. Het counteren van een overval en/of gijzeling is niet toegestaan van zodra politie en/of KMAR ter plaatse is.
 6. Het oplichten van een persoon, verkopen en inkopen van wapens, verkopen en inkopen van drugs, vermoorden of ontvoeren van een persoon en het gebruiken van een wapen zijn in een appartement verboden.
+7. Het wegrijden na een overval is ten alle tijden verboden, overvallers dienen te wachten op hulpdiensten om zodoende de RP aan te gaan.
 ## **Artikel 12 - Gedrag van Ambtenaren**
 Onder ambtenaar wordt verstaan de spelers die één van de volgende instanties uitvoert, deze zijn weergegeven in het F10 menu:
 
