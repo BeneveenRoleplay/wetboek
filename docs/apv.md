@@ -24,17 +24,17 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Beneveen Roleplay, wordt hier
 ## **A3 - Strafbepaling**
 1. De straffen zijn onderverdeeld in zes categorieën (waarschuwingen):
 <br>
-*⦁ 1e Waarschuwing: Mondeling aanspreken en notitie in het adminpanel. "Dit zodat een speler beter geholpen wordt om zijn gedrag en rp kwaliteit te verhogen."
+*⦁ 1e Categorie: Mondeling aanspreken en notitie in het adminpanel. "Dit zodat een speler beter geholpen wordt om zijn gedrag en rp kwaliteit te verhogen."
 <br>
-⦁ 2e Waarschuwing: schriftelijke waarschuwing en een taakstraf van 100 taken.
+⦁ 2e Categorie: schriftelijke waarschuwing en een taakstraf van 100 taken.
 <br>
-⦁ 3e Waarschuwing: minimaal 1 / maximaal 7 dagen ban
+⦁ 3e Categorie: minimaal 1 / maximaal 7 dagen ban
 <br>
-⦁ 4e Waarschuwing: minimaal 8 / maximaal 14 dagen ban
+⦁ 4e Categorie: minimaal 8 / maximaal 14 dagen ban
 <br>
-⦁ 5e Waarschuwing: minimaal 15 / maximaal 30 dagen ban
+⦁ 5e Categorie: minimaal 15 / maximaal 30 dagen ban
 <br>
-⦁ 6e Waarschuwing Permanente Ban.*
+⦁ 6e Categorie Permanente Ban.*
 
 2. Waarschuwingen zijn 3 maanden geldig, daarna vervallen ze automatisch.
 Er kan door een stafflid gekozen worden om straffen te verhogen en/of te verlagen op basis van de context, situatie of eerdere straffen/waarschuwingen van de overtreder in kwestie. Wanneer je het niet eens bent met een oordeel van een stafflid kan je hiervoor een ticket aanmaken.
@@ -100,6 +100,7 @@ Deze regel geldt ook voor de Discord client zelf, dus gebruik van clients als Be
 3. Hij/zij die als niet ambtenaar kleding draagt van één van de overheidsbanen is verboden, tenzij er een goede roleplay aan vast zit, welke goedgekeurd is door een stafflid
 4. Officiële kleding verstrekt vanuit Beneveen Roleplay bedoeld voor specifieke groeperingen mag niet door anderen gebruikt worden of als starters kleding gekozen worden, tenzij hier een sterke roleplay aan verbonden is.
 <br>
+<br>
 **Bij bovenstaande lid 1 en 2 staat een straf van categorie 1**
 **Bij bovenstaande lid 2 en 3 staat een straf van categorie 2**
 
@@ -146,7 +147,7 @@ Deze regel geldt ook voor de Discord client zelf, dus gebruik van clients als Be
 3. Bij voertuig meetings mogen maximaal 20 voertuigen aanwezig zijn.
 <br>
 <br>
-**Bij overtreding van bovenstaande regels word er in-game gehandeld door justitie/politie.
+**Bij overtreding van bovenstaande regels word er in-game gehandeld door justitie/politie.**
 
 ## **Artikel 9 - Gebruik van voertuigen**
 1. Je mag als burger geen overheidsvoertuigen besturen, tenzij er in de roleplay een goede reden voor is of wanneer er toestemming is gegeven door een stafflid.
@@ -154,6 +155,7 @@ Deze regel geldt ook voor de Discord client zelf, dus gebruik van clients als Be
 3. Het is niet toegestaan met voertuigen gebouwen te betreden die daar niet voor bedoeld zijn.
 4. Het is niet toegestaan om jouw voertuig als wapen te gebruiken (VDM).
 5. Er wordt van de speler verwacht dat hij/zij met een realistische snelheid langs drukke locaties rijdt, denk hierbij aan het centrum van Beneveen Roleplay.
+<br>
 <br>
 **Bij overtreden van lid 1, 2 & 4 geld een straf van minimaal 3de categorie.**
 **Bij overtreden van lid 3 geld een straf van minimaal 2de categorie.**
