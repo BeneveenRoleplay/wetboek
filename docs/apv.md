@@ -74,6 +74,7 @@ Er kan door een stafflid gekozen worden om straffen te verhogen en/of te verlage
 <br>
 ⦁ Medewerkers van de overheidsdiensten dwingen om een (bewusteloos) persoon te fouilleren, items (zoals wapens) af te nemen en af te geven aan jou of iemand anders.*
 <br>
+<br>
 **Bij bovenstaande regels geld een straf van minimaal catogorie 2 tot maximaal catogorie 6.**
 
 ## **Artikel 2 - Cheats, Exploits & Meta-gaming**
@@ -90,6 +91,7 @@ Deze regel geldt ook voor de Discord client zelf, dus gebruik van clients als Be
 
 6. Het streamen van de main server in een discord server is nooit toegestaan, tenzij je expliciet toestemming hebt van een stafflid.
 <br>
+<br>
 **Bij bovenstaande regels geld een straf van catogorie 6.**
 
 ## **Artikel 3 - (Overheids) kleding**
@@ -105,12 +107,14 @@ Deze regel geldt ook voor de Discord client zelf, dus gebruik van clients als Be
 1. Het is verboden tijdens een roleplay moedwillig de game verlaten zonder geldige reden. Er wordt verwacht dat je binnen 5 minuten terug bent. Doe je dit niet, zal er een ban van 7 dagen of meer uitgedeeld worden.
 2. Het is de bedoeling, als men de game wil verlaten tijdens een roleplay, ervoor te zorgen dat de mensen die deelnemen aan de roleplay hiervan op de hoogte zijn. Probeer het eerst via "/looc {uitleg}" te vermelden. Als dat niet werkt kan het via spraak vermeld worden.
 <br>
+<br>
 **Bij bovenstaande regels geld een straf van minimaal catogorie 3 tot maximaal catogorie 6.**
 
 ## **Artikel 5 - Nederlandse Taal**
 1. Er wordt van spelers verwacht de Nederlandse of Engelse taal te beheersen. Indien iemand de Nederlandse of Engelse taal niet beheerst, is deze persoon niet welkom op de server.
 2. Andere talen dan het Nederlands en het Engels mogen niet gebruikt worden op een provocerende of beledigende manier gedurende de roleplay.
 3. Tijdens een staff- of overheids gesprek dient de persoon te allen tijde Nederlands te spreken, indien de medewerker dit wenst. Mocht de persoon de Nederlandse taal niet beheersen, dient er iemand aanwezig te zijn die namens hem in het Nederlands kan spreken.
+<br>
 <br>
 **Bij bovenstaande regels geld een straf van minimaal catogorie 3 tot maximaal catogorie 6.**
 
@@ -119,12 +123,14 @@ Deze regel geldt ook voor de Discord client zelf, dus gebruik van clients als Be
 2. Het is als je een report maakt niet de bedoeling om dit in game te melden aan mensen. Wanneer dit wel gedaan wordt, kan een stafflid waarschijnlijk daardoor geen straffen uitdelen omdat de persoon zal doorhebben dat er iemand meekijkt. Ook wordt het vermelden van het aanmaken van een report gezien als FailRP (OOC gaan in RP).
 3. Het spammen van reports, het onnodig aanmaken van reports en discussiëren in reports is verboden.
 <br>
+<br>
 **Bij bovenstaande regels geld een straf van minimaal catogorie 2 tot maximaal catogorie 6.**
 
 ## **Artikel 7 - Alt Characters**
 1. Het is verboden alt characters aan te maken met de intentie het start bedrag over te schrijven naar het account waar normaal op gespeeld wordt. Hiernaast is het ook verboden om meer dan 3 alt accounts aan te maken.
 2. Het is niet toegestaan om een alt character te maken om, bijvoorbeeld, criminele activiteiten te ondernemen. Wanneer een van je personages bij de overheid werkt.
 3. Hoewel alt characters toegestaan zijn, is het verboden om alt accounts te maken, of te multiboxen met alt characters. Dit zal worden bestraft met een permanente ban van alle (alt) accounts.
+<br>
 <br>
 **Bij bovenstaande regels geld een straf van minimaal catogorie 3 tot maximaal catogorie 6.**
 
@@ -138,6 +144,7 @@ Deze regel geldt ook voor de Discord client zelf, dus gebruik van clients als Be
 <br>
 ⦁ Dient officiële vergunningen te hebben, ondertekend door een lid van justitie, waarin de locatie vermeld staat.
 3. Bij voertuig meetings mogen maximaal 20 voertuigen aanwezig zijn.
+<br>
 <br>
 **Bij overtreding van bovenstaande regels word er in-game gehandeld door justitie/politie.
 
@@ -154,6 +161,7 @@ Deze regel geldt ook voor de Discord client zelf, dus gebruik van clients als Be
 ## **Artikel 10 - Belediging**
 1. Persoon die scheldt met hedendaags relevante ziektes, racistische opmerkingen, of andere ongepaste opmerkingen, wordt bestraft door middel van een permanente ban. Dit is ook van kracht op steam-, discord- en karakternaam.
 2. Het is tevens niet toegestaan om in de Beneveen Roleplay erkende platformen toxic, uitlokkend, haatzaaiend of opruiend gedrag te vertonen.
+<br>
 <br>
  **Op lid 1 staan de volgende straffen voor het schelden met hedendaagse ziektes, bij de eerste keer zal dat bestraft worden doormiddel van een ban van twee weken. Bij de tweede keer zal hij/zij bestraft worden met 3 maanden ban, en derde keer zal het een permanente verbanning zijn.**
 **Op lid 2 staan straffen van minimaal de 3de categorie.**
@@ -183,6 +191,7 @@ Loodsen
 6. Het oplichten van een persoon, verkopen en inkopen van wapens, verkopen en inkopen van drugs, vermoorden of ontvoeren van een persoon en het gebruiken van een wapen zijn in een appartement verboden.
 7. Het wegrijden na een overval is ten alle tijden verboden, overvallers dienen te wachten op hulpdiensten om zodoende de RP aan te gaan.
 <br>
+<br>
 **Straffen voor bovenstaande regels betreffen minimaal 3de categorie tot maximaal 6de categorie.**
 
 ## **Artikel 12 - Gedrag van Ambtenaren**
@@ -208,6 +217,7 @@ Onder ambtenaar wordt verstaan de spelers die één van de volgende instanties u
 
 ⦁ Op lid 3 geldt een uitzondering voor medewerkers van de politie of koninklijke marechaussee met een speciale vergunning. Deze leden mogen wel hun wapens buiten dienst behouden.
 <br>
+<br>
 **Straffen voor bovenstaande regels betreffen minimaal 3de categorie tot maximaal 6de categorie.**
 
 
@@ -219,6 +229,7 @@ Onder ambtenaar wordt verstaan de spelers die één van de volgende instanties u
 5. Een uitzondering op lid 4 geldt voor de ambulance & brandweer. Hierbij moeten er te allen tijde 5 medewerkers beschikbaar blijven. Kortom, als er 6 ambulance of brandweer medewerkers aanwezig zijn, dan mag er 1 à 2 ontvoerd worden.
 6. Het is toegestaan om een agent te ontvoeren zodat je jouw voertuig uit de opslag kan halen, hiervoor dien je wel het bedrag af te lossen die hiervoor openstaat. Hierbij ontneem je wel het recht op een advocaat en/of hOVJ. Het is verboden om tussen 00:00 en 10:00 een voertuig uit de opslag te forceren.
 <br>
+<br>
 **Straffen voor bovenstaande regels betreffen minimaal 4de categorie tot maximaal 6de categorie.**
 
 
@@ -228,6 +239,7 @@ Onder ambtenaar wordt verstaan de spelers die één van de volgende instanties u
 3. Een voorwaarde voor het samenwerken tussen criminele organisaties, is dat er geen volledige samenwerking tussen alle organisaties ontstaat en dat dit niet gebeurt tijdens het witwassen van geld.
 4. Wanneer officiële organisaties een samenwerking aangaan met een andere officiële organisatie dan dient dit gemeld te worden volgens het format in het daarvoor aangemaakte kanaal in de Beneveen Roleplay Discord.
 5. Wanneer de leden in een server supported organisatie zodanig opvallen op een negatieve manier (denk aan meerdere malen combat gedrag in plaats van roleplay, teveel warnings, etc.), zullen de Criminele Aanspreekpunten, Head Staff of Hoge Raad beslissen over een gepaste straf jegens deze organisatie. Bij criminele organisaties kan dit zelfs leiden tot een volledige opschorting van de groep.
+<br>
 <br>
 **Straffen voor lid 1 tot lid 4 betreffen minimaal 3de categorie tot maximaal 6de categorie.**
 
@@ -257,6 +269,7 @@ Onder ambtenaar wordt verstaan de spelers die één van de volgende instanties u
 7. Een liquidatie mag niet uitgevoerd worden zonder dat het slachtoffer op de hoogte is van de reden hierachter. Er dient dus aan het slachtoffer duidelijk gemaakt te worden, terwijl hij/zij nog leeft, waarom diegene geliquideerd wordt.
 8. Het campen op een niet actieve drugs locatie is niet toegestaan, zowel op land als op het eiland.
 <br>
+<br>
 **Straffen voor bovenstaande regels betreffen minimaal 3de categorie tot maximaal 6de categorie.**
 
 ## **Artikel 17 - Officiële gang regels**
@@ -264,6 +277,7 @@ Onder ambtenaar wordt verstaan de spelers die één van de volgende instanties u
 2. Het in beslag nemen van een voertuig door een officiële gang hoort met goede of langdurige roleplay te gebeuren, en niet met de intentie om geld te verdienen.
 3. Wanneer er twee weken lang geen roleplay aan de inbeslagname gebonden wordt, is het toegestaan om het voertuig weer gratis uit de garage te halen.
 4. Het confisqueren van items, wapens en geld van een speler is alleen toegestaan als hier een roleplay aan is verbonden. Het confisqueren van overheids objecten is niet toegestaan.
+<br>
 <br>
 **Straffen voor bovenstaande regels betreffen minimaal 4de categorie tot maximaal 6de categorie.**
 
@@ -286,6 +300,7 @@ Onder ambtenaar wordt verstaan de spelers die één van de volgende instanties u
 2. (Ex-)medewerkers van een overheidsbaan dienen minimaal 72 uur te wachten nadat ze ontslag hebben genomen/ontslagen en/of samenwerken met een andere criminele organisatie voordat zij aangenomen mogen worden bij een andere overheidsbaan of een criminele organisatie.
 3. Het is voor de leidinggevenden van overheidsbanen en criminele organisaties verplicht om een document bij te houden met informatie omtrent de in- en uitdiensttreding van hun medewerkers ten behoeve van de handhaving van dit artikel.
 <br>
+<br>
 **Straffen voor bovenstaande regels betreffen minimaal 4de categorie tot maximaal 6de categorie.**
 
 # **Narcopolis**
@@ -295,11 +310,13 @@ Onderstaande regels tellen alleen op Narcopolis
 1. Het is verboden om vanaf het vaste land op de patrouillerende schepen of heli's te schieten.
 2. Er mag op binnenkomende vluchten en schepen geschoten worden, die niet afkomstig zijn van de koninklijke marechaussee.
 <br>
+<br>
 **Straffen voor bovenstaande regels betreffen minimaal 3de categorie tot maximaal 6de categorie.**
 
 ## **Artikel N-2 - Inladen van helikopers/vliegtuigen**
 1. Wanneer jij drugs wilt inladen in een vliegtuig of helikopter moet het vliegtuig of de helikopter binnen een straal van 50 meter van een helipad of landingsbaan staan.
 2. De sea sparrow en dodo mag wel volgeladen worden op open water.
+<br>
 <br>
 **Straffen lid 1 betreffen minimaal 2de categorie tot maximaal 6de categorie.**
 
@@ -307,12 +324,14 @@ Onderstaande regels tellen alleen op Narcopolis
 1. Op Narcopolis is het voor een officiële groep niet toegestaan om samen te werken met een officiele of onofficiele groep of persoon.
 2. Uitzondering op lid 1 is er voor het kopen en verkopen van drugs. Dit mag wel gedaan worden op het eiland tussen verschillende groepen en personen.
 <br>
+<br>
 **Straffen lid 1 betreffen minimaal 2de categorie tot maximaal 6de categorie.**
 
 ## **Artikel N-4 - Campen van een niet actieve drugslocatie**
 1. Het campen van een niet actieve drugslocatie is niet toegestaan op het eiland.
 2. Zodra je binnen 1000 meter van de pluk bent, kan dit onder campen vallen. Dit is ter beoordeling aan een stafflid.
 Het is niet toegestaan om constant op en neer te rijden naar een niet-actieve drugs locatie, om zo de camp regel te omzeilen. Als dit blijft gebeuren zullen er sancties komen. Dit is ter beoordeling aan een stafflid.
+<br>
 <br>
 **Straffen lid 1 betreffen minimaal 1de categorie tot maximaal 6de categorie.**
 
