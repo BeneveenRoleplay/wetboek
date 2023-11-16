@@ -24,7 +24,7 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Beneveen Roleplay, wordt hier
 ## **A3 - Strafbepaling**
 1. De straffen zijn onderverdeeld in zes categorieën (waarschuwingen):
 <br>
-*⦁ 1e Categorie: Mondeling aanspreken en notitie in het adminpanel. "Dit zodat een speler beter geholpen wordt om zijn gedrag en rp kwaliteit te verhogen."
+*⦁ 1e Categorie: Mondeling aanspreken en notitie in het adminpanel. 
 <br>
 ⦁ 2e Categorie: schriftelijke waarschuwing en een taakstraf van 100 taken.
 <br>
@@ -75,7 +75,7 @@ Er kan door een stafflid gekozen worden om straffen te verhogen en/of te verlage
 ⦁ Medewerkers van de overheidsdiensten dwingen om een (bewusteloos) persoon te fouilleren, items (zoals wapens) af te nemen en af te geven aan jou of iemand anders.*
 <br>
 <br>
-**Bij bovenstaande regels geld een straf van minimaal catogorie 2 tot maximaal catogorie 6.**
+**Bij bovenstaande regels geld een straf van minimaal categorie 2 tot maximaal categorie 6.**
 
 ## **Artikel 2 - Cheats, Exploits & Meta-gaming**
 1. Hij/zij die gebruikmaakt van software/hulpmiddelen (cheats) van derde partijen om profijt te krijgen in het spel, wordt gestraft door middel van een permanente ban.
@@ -92,7 +92,7 @@ Deze regel geldt ook voor de Discord client zelf, dus gebruik van clients als Be
 6. Het streamen van de main server in een discord server is nooit toegestaan, tenzij je expliciet toestemming hebt van een stafflid.
 <br>
 <br>
-**Bij bovenstaande regels geld een straf van catogorie 6.**
+**Bij bovenstaande regels geld een straf van categorie 6.**
 
 ## **Artikel 3 - (Overheids) kleding**
 1. Bij het aanmaken van je personage dient je kleding veranderd te worden. Je mag niet dus niet met de starters kleding de server betreden. Verder dien je ervoor te zorgen dat je karakter er realistisch uitziet, armen bij de outfit kloppen en er geen lichaamsdelen ontbreken bij jouw personage.
@@ -102,6 +102,7 @@ Deze regel geldt ook voor de Discord client zelf, dus gebruik van clients als Be
 <br>
 <br>
 **Bij bovenstaande lid 1 en 2 staat een straf van categorie 1**
+<br>
 **Bij bovenstaande lid 2 en 3 staat een straf van categorie 2**
 
 ## **Artikel 4 - Combatlogging**
@@ -109,7 +110,7 @@ Deze regel geldt ook voor de Discord client zelf, dus gebruik van clients als Be
 2. Het is de bedoeling, als men de game wil verlaten tijdens een roleplay, ervoor te zorgen dat de mensen die deelnemen aan de roleplay hiervan op de hoogte zijn. Probeer het eerst via "/looc {uitleg}" te vermelden. Als dat niet werkt kan het via spraak vermeld worden.
 <br>
 <br>
-**Bij bovenstaande regels geld een straf van minimaal catogorie 3 tot maximaal catogorie 6.**
+**Bij bovenstaande regels geld een straf van minimaal categorie 3 tot maximaal categorie 6.**
 
 ## **Artikel 5 - Nederlandse Taal**
 1. Er wordt van spelers verwacht de Nederlandse of Engelse taal te beheersen. Indien iemand de Nederlandse of Engelse taal niet beheerst, is deze persoon niet welkom op de server.
@@ -117,7 +118,7 @@ Deze regel geldt ook voor de Discord client zelf, dus gebruik van clients als Be
 3. Tijdens een staff- of overheids gesprek dient de persoon te allen tijde Nederlands te spreken, indien de medewerker dit wenst. Mocht de persoon de Nederlandse taal niet beheersen, dient er iemand aanwezig te zijn die namens hem in het Nederlands kan spreken.
 <br>
 <br>
-**Bij bovenstaande regels geld een straf van minimaal catogorie 3 tot maximaal catogorie 6.**
+**Bij bovenstaande regels geld een straf van minimaal categorie 3 tot maximaal categorie 6.**
 
 ## **Artikel 6 - Report gebruik**
 1. Er wordt van mensen verwacht gebruik te maken van “/report” om overtredingen van regels te melden. Dit zodat de overtreder hiervan niet op de hoogte is en de eventuele roleplay hierdoor niet beïnvloed wordt.
@@ -125,7 +126,7 @@ Deze regel geldt ook voor de Discord client zelf, dus gebruik van clients als Be
 3. Het spammen van reports, het onnodig aanmaken van reports en discussiëren in reports is verboden.
 <br>
 <br>
-**Bij bovenstaande regels geld een straf van minimaal catogorie 2 tot maximaal catogorie 6.**
+**Bij bovenstaande regels geld een straf van minimaal categorie 2 tot maximaal categorie 6.**
 
 ## **Artikel 7 - Alt Characters**
 1. Het is verboden alt characters aan te maken met de intentie het start bedrag over te schrijven naar het account waar normaal op gespeeld wordt. Hiernaast is het ook verboden om meer dan 3 alt accounts aan te maken.
@@ -133,7 +134,7 @@ Deze regel geldt ook voor de Discord client zelf, dus gebruik van clients als Be
 3. Hoewel alt characters toegestaan zijn, is het verboden om alt accounts te maken, of te multiboxen met alt characters. Dit zal worden bestraft met een permanente ban van alle (alt) accounts.
 <br>
 <br>
-**Bij bovenstaande regels geld een straf van minimaal catogorie 3 tot maximaal catogorie 6.**
+**Bij bovenstaande regels geld een straf van minimaal categorie 3 tot maximaal categorie 6.**
 
 ## **Artikel 8 - Voertuig handelaar / Voertuig meetings**
 1. Een voertuig handelaar mag enkel uitgevoerd worden wanneer hiervoor goedkeuring is vanuit justitie.
@@ -158,6 +159,7 @@ Deze regel geldt ook voor de Discord client zelf, dus gebruik van clients als Be
 <br>
 <br>
 **Bij overtreden van lid 1, 2 & 4 geld een straf van minimaal 3de categorie.**
+<br>
 **Bij overtreden van lid 3 geld een straf van minimaal 2de categorie.**
 
 ## **Artikel 10 - Belediging**
@@ -172,8 +174,7 @@ Deze regel geldt ook voor de Discord client zelf, dus gebruik van clients als Be
 1. Het overvallen of oplichten van mensen is verboden, dit mag alleen wanneer een persoon bezig is met criminele activiteiten.
 2. Met betrekking tot de volgende situaties is overvallen of oplichten niet toegestaan:
 <br>
-⦁ Het stelen/overvallen van bankgeld
-Loodsen
+⦁ Het stelen/overvallen van loodsen (scammen)
 <br>
 ⦁ Spelers te overvallen, te ontvoeren of negatief te bejegenen bij safezones
 <br>
@@ -270,6 +271,9 @@ Onder ambtenaar wordt verstaan de spelers die één van de volgende instanties u
 6. Probeer op alle mogelijke manieren een vuurgevecht te vermijden en onderhandel eerst met de politie.
 7. Een liquidatie mag niet uitgevoerd worden zonder dat het slachtoffer op de hoogte is van de reden hierachter. Er dient dus aan het slachtoffer duidelijk gemaakt te worden, terwijl hij/zij nog leeft, waarom diegene geliquideerd wordt.
 8. Het campen op een niet actieve drugs locatie is niet toegestaan, zowel op land als op het eiland.
+9. Het campen van de witwas startlocatie is niet toegestaan. Overvallen van een witwas bus is toegestaan als de persoon fouten maakt in kledij, handelingen, duidelijk onder begeleiding rijden & andere handelingen die niet bij het voertuig passen.
+10. Het campen van de startlocatie "illegale transport" is niet toegstaan, toegestaan is wel te zoeken in het gebied van Sandy.
+11. Het campen bij de illegale job startlocatie is toegestaan
 <br>
 <br>
 **Straffen voor bovenstaande regels betreffen minimaal 3de categorie tot maximaal 6de categorie.**

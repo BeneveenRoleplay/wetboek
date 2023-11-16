@@ -91,7 +91,7 @@ Politie.
  
 2. Wanneer een voertuig in beslag wordt genomen vanwege een strafbaar feit:  
 *a. Kan deze maximaal drie (3) dagen worden vastgehouden voor onderzoek.*  
-*b. Zal deze, nadat bewijsbaar is aangetoond dat het voertuig onderdeel was van een strafbaar feit waarbij de eigenaar ook veroordeeld is, uitgekocht kunnen worden voor  motoren; €5000,00, Auto’s; €7500,00 en Supercars;€15.000,00.*
+*b. Zal deze, nadat bewijsbaar is aangetoond dat het voertuig onderdeel was van een strafbaar feit waarbij de eigenaar ook veroordeeld is, uitgekocht kunnen worden voor 25% van de nieuw waarde bij verkeersovertredingen & 33% bij criminele activiteiten.*
 *c. Zal deze kosteloos worden teruggegeven (na eventueel onderzoek) indien de eigenaar geen strafbaar feit ten laste is gelegd, of kan gelegd worden, welke in directe zin gekoppeld is aan de reden van inbeslagname.*  
  
 3. Geldige redenen voor inbeslagname zijn:  
@@ -99,6 +99,8 @@ Politie.
 *b. Niet stoppen voor stopteken gegeven door middel van een politie transparant of rode lamp.*  
 *c. Niet voldoen aan (verkeers)aanwijzing van bevoegde en als zodanig kenbare opsporingsambtenaar.*  
 *d. Snelheidsovertreding van meer dan 100% van de maximumsnelheid*
+
+4. Voertuig dient binnen 2 weken na inbeslagname worden afgehaald, anders zal deze in de politieveilingen worden verkocht.
 
 
 
@@ -377,9 +379,9 @@ Politie.
 
 | Aantal veroordelingen | Celstraf  | Taakstraf  | Boete |
 | ------------ | ------------- | ------------ | ------------ |
-| Eerste veroordeling  | 30 maanden | 15 uur | € 2000,00 |
-| Tweede veroordeling  | 50 maanden | 20 uur | € 5000,00  |
-| Meerdere veroordeling | |  75 maanden | € 7500,00 |
+| Eerste veroordeling  | 30 maanden |  | € 2000,00 |
+| Tweede veroordeling  | 50 maanden | | € 5000,00  |
+| Meerdere veroordeling | 75 maanden | | € 7500,00 |
 
 
 
@@ -395,9 +397,9 @@ Politie.
 
 | Aantal veroordelingen | Celstraf  | Taakstraf  | Boete |
 | ------------ | ------------- | ------------ | ------------ |
-| Eerste veroordeling  | 40 maanden | 15 uur | € 3000,00 |
-| Tweede veroordeling  | 60 maanden | 20 uur | € 6500,00  |
-| Meerdere veroordeling | |  85 maanden | € 10.000,00 |
+| Eerste veroordeling  | 40 maanden | | € 3000,00 |
+| Tweede veroordeling  | 60 maanden | | € 6500,00  |
+| Meerdere veroordeling | 85 maanden | | € 10.000,00 |
 
 
 
@@ -823,8 +825,12 @@ Hierbij gelden de volgende aandachtspunten:
 | Illegale voertuig | Soort |
 | ------------ | ------------- |
 | Dune buggy | Auto |
-| Cliffhanger | Motor |  
-
+| Cliffhanger | Motor | 
+| BMW M8 GTE | Auto |  
+| Sanchez | Motor |  
+| Sanchez sport | Motor |  
+| Ferrari GT3 | Auto |  
+| Kart | Auto |  
 
 
 ## **Artikel IV-1 – Harddrugs (OW2**) 
