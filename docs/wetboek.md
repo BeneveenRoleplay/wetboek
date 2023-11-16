@@ -92,6 +92,7 @@ Politie.
 2. Wanneer een voertuig in beslag wordt genomen vanwege een strafbaar feit:  
 *a. Kan deze maximaal drie (3) dagen worden vastgehouden voor onderzoek.*  
 *b. Zal deze, nadat bewijsbaar is aangetoond dat het voertuig onderdeel was van een strafbaar feit waarbij de eigenaar ook veroordeeld is, uitgekocht kunnen worden voor 25% van de nieuw waarde bij verkeersovertredingen & 33% bij criminele activiteiten.*
+<br>
 *c. Zal deze kosteloos worden teruggegeven (na eventueel onderzoek) indien de eigenaar geen strafbaar feit ten laste is gelegd, of kan gelegd worden, welke in directe zin gekoppeld is aan de reden van inbeslagname.*  
  
 3. Geldige redenen voor inbeslagname zijn:  
