@@ -830,6 +830,7 @@ Hierbij gelden de volgende aandachtspunten:
 | Sanchez | Motor |  
 | Sanchez sport | Motor |  
 | Ferrari GT3 | Auto |  
+| Throphy Truck | Auto |   
 | Kart | Auto |  
 
 
