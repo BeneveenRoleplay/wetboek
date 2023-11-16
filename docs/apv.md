@@ -273,7 +273,8 @@ Onder ambtenaar wordt verstaan de spelers die één van de volgende instanties u
 8. Het campen op een niet actieve drugs locatie is niet toegestaan, zowel op land als op het eiland.
 9. Het campen van de witwas startlocatie is niet toegestaan. Overvallen van een witwas bus is toegestaan als de persoon fouten maakt in kledij, handelingen, duidelijk onder begeleiding rijden & andere handelingen die niet bij het voertuig passen.
 10. Het campen van de startlocatie "illegale transport" is niet toegstaan, toegestaan is wel te zoeken in het gebied van Sandy.
-11. Het campen bij de illegale job startlocatie is toegestaan
+11. Het campen bij de illegale job startlocatie is toegestaan.
+12. Rippen op startlocatie drugsverkoop is niet toegestaan. Overvallen van een drugsverkoop bus is toegestaan als de persoon fouten maakt in kledij, handelingen, duidelijk onder begeleiding rijden & andere handelingen die niet bij het voertuig passen.
 <br>
 <br>
 **Straffen voor bovenstaande regels betreffen minimaal 3de categorie tot maximaal 6de categorie.**
