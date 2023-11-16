@@ -85,9 +85,8 @@ f. Boetes.*
 ## **Artikel 6 - Inbeslagname**
 
 1. Wanneer een strafbaar feit gepleegd is met een goed, of wanneer een goed uit een strafbaar feit is verkregen, kan deze in beslag worden genomen.  
-De keuze voor inbeslagname is ter beoordeling van Politie.  
-Verwerking van de in beslag genomen goederen geschiedt volgens richtlijn van 
-Politie.  
+De keuze voor inbeslagname is ter beoordeling van de politie.  
+Verwerking van de in beslag genomen goederen geschiedt volgens richtlijn van de politie.  
  
 2. Wanneer een voertuig in beslag wordt genomen vanwege een strafbaar feit:  
 *a. Kan deze maximaal drie (3) dagen worden vastgehouden voor onderzoek.*  
@@ -102,6 +101,8 @@ Politie.
 *d. Snelheidsovertreding van meer dan 100% van de maximumsnelheid*
 
 4. Voertuig dient binnen 2 weken na inbeslagname worden afgehaald, anders zal deze in de politieveilingen worden verkocht.
+
+5. Een voertuig dat in beslag is genomen kan pas na 24 uur worden opgehaald bij het politiebureau.
 
 
 
