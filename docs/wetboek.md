@@ -1111,9 +1111,9 @@ Hierbij gelden de volgende aandachtspunten:
 
 | Veroordelingen | Celstraf | Taakstraf | Boete |
 | ------------ | ------------- | ------------ | ------------- |
-| Eerste veroordeling  | | 5 uur | €3000,00 | 
-| Tweede veroordeling  | | 10 uur | €5000,00 |
-| Meerdere veroordeling | 15 maanden | | €7500,00 |
+| Eerste veroordeling  | | 20 uur | €3000,00 | 
+| Tweede veroordeling  | | 30 uur | €5000,00 |
+| Meerdere veroordeling | 25 maanden | | €7500,00 |
 
 
 
@@ -1148,7 +1148,7 @@ worden verkregen uit een van tevoren opgegeven aantal symbolen ("De Lotto").
 
 | Veroordelingen | Celstraf | Taakstraf | Boete |
 | ------------ | ------------- | ------------ | ------------- |
-| Eerste veroordeling  | | 5 uur | €7500,00 | 
+| Eerste veroordeling  | | 25 uur | €7500,00 | 
 | Tweede veroordeling  | 15 maanden |  | €10.000,00 |
 | Meerdere veroordeling | 25 maanden | | €17.500,00 |
 
@@ -1241,9 +1241,9 @@ worden verkregen uit een van tevoren opgegeven aantal symbolen ("De Lotto").
 
 | Veroordelingen | Celstraf | Taakstraf | Boete |
 | ------------ | ------------- | ------------ | ------------- |
-| Eerste veroordeling  | | 5 uur | €2000,00 | 
-| Tweede veroordeling  | | 10 uur | €5000,00 |
-| Meerdere veroordeling | 20 maanden | | €8000,00 |
+| Eerste veroordeling  | | 30 | €5500,00 | 
+| Tweede veroordeling  | 20 maanden |  | €9000,00 |
+| Meerdere veroordeling | 40 maanden | | €18.000,00 |
 
 
 
@@ -1303,7 +1303,7 @@ worden verkregen uit een van tevoren opgegeven aantal symbolen ("De Lotto").
 
 ## **Artikel IX-4 – Niet op eerste vordering tonen indentiteitsbewijs (SR447e)**
 
-⦁	Schuldig is een persoon die geen gehoor geeft aan een vordering tot inzage van het identiteitsbewijs door een ambtenaar in functie, wanneer dit in het kader van de wet door de ambtenaar als noodzakelijk wordt geacht, op straffe van een boete van €250,- per geval. 
+⦁	Schuldig is een persoon die geen gehoor geeft aan een vordering tot inzage van het identiteitsbewijs door een ambtenaar in functie, wanneer dit in het kader van de wet door de ambtenaar als noodzakelijk wordt geacht, op straffe van een boete van €2500,- per geval. 
 
 
 ## **Artikel IX-5 – Openbare dronkenschap** 
@@ -1340,9 +1340,9 @@ worden verkregen uit een van tevoren opgegeven aantal symbolen ("De Lotto").
 
 | Veroordelingen | Celstraf | Taakstraf | Boete |
 | ------------ | ------------- | ------------ | ------------- |
-| Eerste veroordeling  | | | €1000,00 | 
-| Tweede veroordeling  | | 10 uur | €2000,00 |
-| Meerdere veroordeling | 10 maanden | | €3000,00 |
+| Eerste veroordeling  | | | €3000,00 | 
+| Tweede veroordeling  | | 30 uur | €6000,00 |
+| Meerdere veroordeling | 20 maanden | | €8500,00 |
 
 
 
@@ -1359,9 +1359,9 @@ worden verkregen uit een van tevoren opgegeven aantal symbolen ("De Lotto").
 
 | Veroordelingen | Celstraf | Taakstraf | Boete |
 | ------------ | ------------- | ------------ | ------------- |
-| Eerste veroordeling  | 10 maanden | | €3500,00 | 
-| Tweede veroordeling  | 20 maanden | | €6000,00 |
-| Meerdere veroordeling | 40 maanden | | €10.000,00 |
+| Eerste veroordeling  | 10 maanden | | €7500,00 | 
+| Tweede veroordeling  | 20 maanden | | €15.000,00 |
+| Meerdere veroordeling | 40 maanden | | €17.500,00 |
 
 
 
@@ -1412,9 +1412,9 @@ worden verkregen uit een van tevoren opgegeven aantal symbolen ("De Lotto").
 
 | Veroordelingen | Celstraf | Taakstraf | Boete |
 | ------------ | ------------- | ------------ | ------------- |
-| Eerste veroordeling  | 10 maanden | | €1000,00 | 
-| Tweede veroordeling  | 20 maanden | | €1500,00 |
-| Meerdere veroordeling | 30 maanden | | €2500,00 |
+| Eerste veroordeling  | 10 maanden | | €5000,00 | 
+| Tweede veroordeling  | 20 maanden | | €10.000,00 |
+| Meerdere veroordeling | 30 maanden | | €17.500,00 |
 
 
 
@@ -1435,8 +1435,12 @@ worden verkregen uit een van tevoren opgegeven aantal symbolen ("De Lotto").
 | Bij wet geclassificeerde verboden diersoorten en koralen   |
 | ------------ | 
 | Schildpadden |
-| Haaien  | 
-
+| Pijlstaartrog  | 
+| Dolfijn  | 
+| Hamerhaai | 
+| Haai | 
+| Tijgerhaai | 
+| Walvis | 
 
 
 **Dieren Rekentabel**
