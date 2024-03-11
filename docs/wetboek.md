@@ -811,19 +811,22 @@ Hierbij gelden de volgende aandachtspunten:
 ⦁	Indien persoon zoals bedoeld in lid 3 niet de eigenaar van het voertuig is, wordt het voertuig eveneens direct in beslag genomen en vernietigd.  
  
 ⦁	De eigenaar van het voertuig blijft verantwoordelijk, ook al wordt het voertuig met een andere bestuurder aangetroffen. 
-
+ 
+⦁	De boete word gehanteerd naar tabel.
 
 
 | Illegale voertuig | Soort |
 | ------------ | ------------- |
-| Dune buggy | Auto |
-| Cliffhanger | Motor | 
-| BMW M8 GTE | Auto |  
-| Sanchez | Motor |  
-| Sanchez sport | Motor |  
-| Ferrari GT3 | Auto |  
-| Throphy Truck | Auto |   
-| Kart | Auto |  
+| Rebel Raid | Auto |
+| KTM EXCF250 | Motor | 
+| Kawasaki X450F | Motor |  
+
+| Aantal | Inbeslagname | Boete |
+| ------------ | ------------- | ------------- |
+| 1ste keer | Ja | € 5000,00 |
+| 2de keer | Ja | € 20.000,00 |
+| 3de keer | Ja | € 40.000,00 |
+
 
 
 ## **Artikel IV-1 – Harddrugs (OW2**) 

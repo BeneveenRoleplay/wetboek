@@ -49,6 +49,7 @@ Er kan door een stafflid gekozen worden om straffen te verhogen en/of te verlage
 3. Dit Wetboek heeft, net als de APV, een basis in het Nederlands Recht.
 4. Het Nederlands Recht is zodoende leidend, tenzij er een Wet of Bepaling is opgenomen in de WBR. Dan is deze leidend.
 5. Dit wetboek is, net als deze APV en conform de rechtsstaat, ten alle tijden openbaar.
+6. De waarde voor donatievoertuigen is bepaald als volgt; €250.000,00 voor sportauto's, €100.000,00 voor SUV en €500.000,00 voor supercars. 
 
 <br>
 
