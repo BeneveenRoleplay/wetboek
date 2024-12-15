@@ -1,12 +1,12 @@
-# **Wetboek Beneveen**
+# **Wetboek Veendorp**
 
 
 
 |  |   |
 | ------------ | ------------- | 
-| Overheidsorganisatie | Hoge Raad Beneveen| 
-| Citeertitel  | Wetboek Beneveen Roleplay  |   
-| Vastgesteld door | Hoge Raad & Politie Beneveen | 
+| Overheidsorganisatie | Hoge Raad Veendorp| 
+| Citeertitel  | Wetboek Veendorp Roleplay  |   
+| Vastgesteld door | Hoge Raad & Politie Veendorp | 
 | Onderwerp | Openbare Orde & Veiligheid | 
 
 
@@ -14,9 +14,9 @@
 
 ## **Artikel 1 - Reikwijdte**
 
-1. Het Wetboek Beneveen Roleplay (verder aangeduid als WBR) is leidend voor alle beschreven gevallen, waarbij als aanvulling het Nederlands Recht van toepassing is. 
+1. Het Wetboek Veendorp Roleplay (verder aangeduid als WBR) is leidend voor alle beschreven gevallen, waarbij als aanvulling het Nederlands Recht van toepassing is. 
 
-2. Het WBR heeft betrekking op het vaste land en eiland van Beneveen Roleplay 
+2. Het WBR heeft betrekking op het vaste land en eiland van Veendorp Roleplay 
 
 
 
@@ -52,7 +52,7 @@ f. Boetes.*
  
 2. Het is voor een staff-lid niet toegestaan om mee te beslissen over een zaak die over hunzelf, vrienden en/of familie gaat. Dit om te versterken dat een zaak op een eerlijke en rechtvaardige manier behandeld wordt. 
  
-3. Minderjarigen worden binnen Beneveen Roleplay, op dezelfde manier behandeld als volwassenen. Alle bepalingen, straffen en dergelijke zijn ook van toepassing op hen. Minderjarigen hebben dezelfde rechten en plichten als volwassenen. Het jeugdstrafrecht is in Beneveen Roleplay niet van toepassing. 
+3. Minderjarigen worden binnen Veendorp Roleplay, op dezelfde manier behandeld als volwassenen. Alle bepalingen, straffen en dergelijke zijn ook van toepassing op hen. Minderjarigen hebben dezelfde rechten en plichten als volwassenen. Het jeugdstrafrecht is in Veendorp Roleplay niet van toepassing. 
 
 
 
@@ -1669,8 +1669,8 @@ Artikel II-6 Eenvoudige mishandeling (300 SR), Artikel II-7 Zware mishandeling (
 
 ## **Bijlage I Douanerisicogebieden** 
 
-Beneveen kent enkele douanerisico gebieden. In een douanerisicogebied mag, in een straal van 500 meter, preventief gefouilleerd worden. Dus dat wilt zeggen dat ook voertuigen gecontroleerd mogen worden. Hier onder zijn deze gebieden aangegeven. 
-De korpsleiding is bevoegd om, in samenspraak met de burgermeester van Beneveen , aanvullende douanegebieden aan te wijzen. Hiervoor gelden dezelfde regels als de normale douanerisico gebieden. 
+Veendorp kent enkele douanerisico gebieden. In een douanerisicogebied mag, in een straal van 500 meter, preventief gefouilleerd worden. Dus dat wilt zeggen dat ook voertuigen gecontroleerd mogen worden. Hier onder zijn deze gebieden aangegeven. 
+De korpsleiding is bevoegd om, in samenspraak met de burgermeester van Veendorp , aanvullende douanegebieden aan te wijzen. Hiervoor gelden dezelfde regels als de normale douanerisico gebieden. 
 Dit mag uitgevoerd worden door de politie,kmar en douane. 
 
 
@@ -1683,7 +1683,7 @@ Dit mag uitgevoerd worden door de politie,kmar en douane.
 
 ## **Kaartweergave**
 
-![Kaart met risicogebieden](img/Douanegebied_beneveen.png)
+![Kaart met risicogebieden](img/Douanegebied_Veendorp.png)
 
 
 

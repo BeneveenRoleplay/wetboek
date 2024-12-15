@@ -1,19 +1,19 @@
-## **APV Beneveen**
+## **APV Veendorp**
 
 |  |   |
 | ------------ | ------------- | 
-| Overheidsorganisatie | Hoge Raad Beneveen| 
-| Citeertitel  | Wetboek Beneveen Roleplay  |   
+| Overheidsorganisatie | Hoge Raad Veendorp| 
+| Citeertitel  | Wetboek Veendorp Roleplay  |   
 | Vastgesteld door | Hoge Raad | 
 | Onderwerp | Openbare Orde & Veiligheid | 
 
 ## **Opmerkingen met betrekking tot de verordening**
-Het Wetboek van Strafrecht, specifiek bedoeld voor Beneveen Roleplay, wordt hierbij ingetrokken en vervangen door deze APV.
+Het Wetboek van Strafrecht, specifiek bedoeld voor Veendorp Roleplay, wordt hierbij ingetrokken en vervangen door deze APV.
 
 # **Algemene Bepalingen**
 
 ## **A1 - Reikwijdte**
-1. Deze Algemene Plaatselijke Verordening (verder aangeduid als APV) is bedoeld als aanvulling op het Nederlands Recht en heeft betrekking op het eiland, de gemeente, en de stad Beneveen Roleplay.
+1. Deze Algemene Plaatselijke Verordening (verder aangeduid als APV) is bedoeld als aanvulling op het Nederlands Recht en heeft betrekking op het eiland, de gemeente, en de stad Veendorp Roleplay.
 2. De APV biedt een indicerend kader voor eventuele bestraffing in-game (“in RP”), maar is verder bedoeld voor het afhandelen van straffen buiten de RP om.
 
 ## **A2 - Geldigheid**
@@ -44,10 +44,10 @@ Er kan door een stafflid gekozen worden om straffen te verhogen en/of te verlage
 5. Bans worden uitgedeeld op basis van de GTA licentie en IP-adres en geldt als zodanig voor alle gebruikers van deze kenmerken.
 
 ## **A4 - Aanvullende Wetten en regels**
-1. Aanvullend op de APV is er het Wetboek Beneveen Roleplay (WBR), waarin alle wetten, artikelen en bepalingen zijn opgenomen die gelden in Beneveen Roleplay.
+1. Aanvullend op de APV is er het Wetboek Veendorp Roleplay (WVR), waarin alle wetten, artikelen en bepalingen zijn opgenomen die gelden in Veendorp Roleplay.
 2. In dit Wetboek is opgenomen alle criminele feiten, de bijbehorende boetes, gevangenisstraffen enzovoorts.
 3. Dit Wetboek heeft, net als de APV, een basis in het Nederlands Recht.
-4. Het Nederlands Recht is zodoende leidend, tenzij er een Wet of Bepaling is opgenomen in de WBR. Dan is deze leidend.
+4. Het Nederlands Recht is zodoende leidend, tenzij er een Wet of Bepaling is opgenomen in de WVR. Dan is deze leidend.
 5. Dit wetboek is, net als deze APV en conform de rechtsstaat, ten alle tijden openbaar.
 6. De waarde voor donatievoertuigen is bepaald als volgt; €250.000,00 voor sportauto's, €100.000,00 voor SUV en €500.000,00 voor supercars. 
 
@@ -88,7 +88,7 @@ Deze regel geldt ook voor de Discord client zelf, dus gebruik van clients als Be
 
 4. Het is niet toegestaan om externe discords te gebruiken voor roleplay gerelateerde zaken, zonder dat hier toestemming is voor gegeven vanuit staff (denk hierbij aan het gebruik van sheets en andere onderlinge zaken). Eigenaren van externe discords waarin meta-gaming voorkomt, zullen een permanente ban ontvangen.
 
-5. Wanneer je met meerdere mensen die op Beneveen Roleplay spelen in een voicecall zit, is streamen niet toegestaan en moet je gedeafened en gemute zijn. Als één persoon in-game is en de rest niet en je besluit om alsnog in een call te zitten zonder dat je gedeafened/gemute bent, ben je dus ook in overtreding van deze regel.
+5. Wanneer je met meerdere mensen die op Veendorp Roleplay spelen in een voicecall zit, is streamen niet toegestaan en moet je gedeafened en gemute zijn. Als één persoon in-game is en de rest niet en je besluit om alsnog in een call te zitten zonder dat je gedeafened/gemute bent, ben je dus ook in overtreding van deze regel.
 
 6. Het streamen van de main server in een discord server is nooit toegestaan, tenzij je expliciet toestemming hebt van een stafflid.
 <br>
@@ -99,7 +99,7 @@ Deze regel geldt ook voor de Discord client zelf, dus gebruik van clients als Be
 1. Bij het aanmaken van je personage dient je kleding veranderd te worden. Je mag niet dus niet met de starters kleding de server betreden. Verder dien je ervoor te zorgen dat je karakter er realistisch uitziet, armen bij de outfit kloppen en er geen lichaamsdelen ontbreken bij jouw personage.
 2. Er wordt geacht dat de kleding wordt gedragen die is verstrekt door de baas voor het uitvoeren van het beroep.
 3. Hij/zij die als niet ambtenaar kleding draagt van één van de overheidsbanen is verboden, tenzij er een goede roleplay aan vast zit, welke goedgekeurd is door een stafflid
-4. Officiële kleding verstrekt vanuit Beneveen Roleplay bedoeld voor specifieke groeperingen mag niet door anderen gebruikt worden of als starters kleding gekozen worden, tenzij hier een sterke roleplay aan verbonden is.
+4. Officiële kleding verstrekt vanuit Veendorp Roleplay bedoeld voor specifieke groeperingen mag niet door anderen gebruikt worden of als starters kleding gekozen worden, tenzij hier een sterke roleplay aan verbonden is.
 <br>
 <br>
 **Bij bovenstaande lid 1 en 2 staat een straf van categorie 1**
@@ -156,7 +156,7 @@ Deze regel geldt ook voor de Discord client zelf, dus gebruik van clients als Be
 2. Er wordt geacht van mensen geen gebruik te maken van baan voertuigen voor illegale bezigheden, tenzij hier goedkeuring voor is gegeven vanuit een stafflid voor een roleplay scenario.
 3. Het is niet toegestaan met voertuigen gebouwen te betreden die daar niet voor bedoeld zijn.
 4. Het is niet toegestaan om jouw voertuig als wapen te gebruiken (VDM).
-5. Er wordt van de speler verwacht dat hij/zij met een realistische snelheid langs drukke locaties rijdt, denk hierbij aan het centrum van Beneveen Roleplay.
+5. Er wordt van de speler verwacht dat hij/zij met een realistische snelheid langs drukke locaties rijdt, denk hierbij aan het centrum van Veendorp Roleplay.
 <br>
 <br>
 **Bij overtreden van lid 1, 2 & 4 geld een straf van minimaal 3de categorie.**
@@ -165,7 +165,7 @@ Deze regel geldt ook voor de Discord client zelf, dus gebruik van clients als Be
 
 ## **Artikel 10 - Belediging**
 1. Persoon die scheldt met hedendaags relevante ziektes, racistische opmerkingen, of andere ongepaste opmerkingen, wordt bestraft door middel van een permanente ban. Dit is ook van kracht op steam-, discord- en karakternaam.
-2. Het is tevens niet toegestaan om in de Beneveen Roleplay erkende platformen toxic, uitlokkend, haatzaaiend of opruiend gedrag te vertonen.
+2. Het is tevens niet toegestaan om in de Veendorp Roleplay erkende platformen toxic, uitlokkend, haatzaaiend of opruiend gedrag te vertonen.
 <br>
 <br>
  **Op lid 1 staan de volgende straffen voor het schelden met hedendaagse ziektes, bij de eerste keer zal dat bestraft worden doormiddel van een ban van twee weken. Bij de tweede keer zal hij/zij bestraft worden met 3 maanden ban, en derde keer zal het een permanente verbanning zijn.**
@@ -238,10 +238,10 @@ Onder ambtenaar wordt verstaan de spelers die één van de volgende instanties u
 
 
 ## **Artikel 14 - Roleplay & Ledenaantal Criminele Organisaties**
-1. Onder "criminele organisaties" vallen alle officiële groepen gevestigd in Beneveen Roleplay.
+1. Onder "criminele organisaties" vallen alle officiële groepen gevestigd in Veendorp Roleplay.
 2. Criminele organisaties mogen een maximaal ledenaantal van 25 personen hebben. Hierin is een vrije keuze voor het aantal leden met de "hangaround" rang.
 3. Een voorwaarde voor het samenwerken tussen criminele organisaties, is dat er geen volledige samenwerking tussen alle organisaties ontstaat en dat dit niet gebeurt tijdens het witwassen van geld.
-4. Wanneer officiële organisaties een samenwerking aangaan met een andere officiële organisatie dan dient dit gemeld te worden volgens het format in het daarvoor aangemaakte kanaal in de Beneveen Roleplay Discord.
+4. Wanneer officiële organisaties een samenwerking aangaan met een andere officiële organisatie dan dient dit gemeld te worden volgens het format in het daarvoor aangemaakte kanaal in de Veendorp Roleplay Discord.
 5. Wanneer de leden in een server supported organisatie zodanig opvallen op een negatieve manier (denk aan meerdere malen combat gedrag in plaats van roleplay, teveel warnings, etc.), zullen de Criminele Aanspreekpunten, Head Staff of Hoge Raad beslissen over een gepaste straf jegens deze organisatie. Bij criminele organisaties kan dit zelfs leiden tot een volledige opschorting van de groep.
 <br>
 <br>
